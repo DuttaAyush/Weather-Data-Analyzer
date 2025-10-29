@@ -35,3 +35,7 @@ The app will automatically open at `http://localhost:8501`
 ## 🌍 Supported Cities
 
 Nagpur, New Delhi, Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad
+
+# 🌤️ View Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weatheranalyser.streamlit.app/)
