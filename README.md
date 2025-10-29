@@ -4,17 +4,23 @@ A Streamlit-based web application for analyzing and visualizing weather data wit
 
 ## 🚀 How to Run
 
-1. **Install dependencies:**
+1. **Clone the repository:**
 ```bash
-pip install streamlit pandas matplotlib seaborn numpy meteostat
+git clone https://github.com/DuttaAyush/Weather-Data-Analyzer
+cd Weather-Data-Analyzer
 ```
 
-2. **Run the application:**
+2. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the application:**
 ```bash
 streamlit run app.py
 ```
 
-3. **Open your browser:**
+4. **Open your browser:**
 The app will automatically open at `http://localhost:8501`
 
 ## 📊 Features
