@@ -19,7 +19,7 @@ The app will automatically open at `http://localhost:8501`
 
 ## 📊 Features
 
-- Upload CSV files or fetch real weather data for Indian cities
+- Upload CSV files or fetch real weather data using **Meteostat API**
 - View summary statistics and extreme weather days
 - Interactive visualizations (temperature trends, monthly averages, correlations)
 - Data export and seasonal analysis
