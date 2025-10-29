@@ -1,9 +1,37 @@
-# Weather-Data-Analyzer
-## SL LAB Project
-- Steps to run
+# 🌤️ Weather Data Analyzer
 
--- Clone the repo
+A Streamlit-based web application for analyzing and visualizing weather data with interactive charts, statistics, and insights.
 
--- Install matplotlib pandas seaborn numpy meteostat using pip
+## 🚀 How to Run
 
--- meteostat is used to fetch data from web
+1. **Install dependencies:**
+```bash
+pip install streamlit pandas matplotlib seaborn numpy meteostat
+```
+
+2. **Run the application:**
+```bash
+streamlit run app.py
+```
+
+3. **Open your browser:**
+The app will automatically open at `http://localhost:8501`
+
+## 📊 Features
+
+- Upload CSV files or fetch real weather data for Indian cities
+- View summary statistics and extreme weather days
+- Interactive visualizations (temperature trends, monthly averages, correlations)
+- Data export and seasonal analysis
+
+## 📁 Project Structure
+
+```
+├── weather.py    # Core weather data analyzer class
+├── app.py        # Streamlit web application
+└── README.md     # This file
+```
+
+## 🌍 Supported Cities
+
+Nagpur, New Delhi, Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad
